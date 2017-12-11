@@ -1,0 +1,118 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ALFRED.COM" resolutions="1x" timestamp="1512955831574">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="143958849" ref="index"/>
+    <file name="index.css" crc="4227635204" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="muse-icon-font.woff" crc="3856750426"/>
+    <file name="muse-icon-font.eot" crc="3915778331"/>
+    <file name="muse-icon-font.svg" crc="472712140"/>
+    <file name="foundation-icons.woff" crc="4209955824"/>
+    <file name="foundation-icons.eot" crc="14155778"/>
+    <file name="foundation-icons.svg" crc="3798616633"/>
+  </folder>
+  <folder name="assets">
+    <file name="hoja-de-vida-luis-lópez.pdf" crc="4063529215" seo="true" mt="1512950883000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u1371.php" crc="50446201" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="alfredlópezdg-favicon.ico" crc="150157654" ref="index"/>
+    <file name="pagina-alf-exp_0007s_0003_img_20171208_131628.png" crc="364948341" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0006s_0001_capa-2.png" crc="4003993591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0007s_0002_diseñador-gráfico.png" crc="4148287696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0007s_0001_descargar-resumen.png" crc="4218749167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0007s_0001_descargar-resumenhover.png" crc="305046710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0004s_0000_herramientas-que-utilizo.png" crc="4152386068" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0004s_0001_objeto-inteligente-vectorial.png" crc="108524628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0005s_0002_organic-1280537_960_720.png" crc="4128738714" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0005s_0000_habiidades.png" crc="421829735" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0005s_0001_objeto-inteligente-vectorial.png" crc="3791979565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0002s_0002_capa-4.png" crc="4004532982" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0002s_0001_experiencia.png" crc="4020391142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0002s_0000_objeto-inteligente-vectorial.png" crc="4220404700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0004_water-747618_960_720.jpg" crc="269953496" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0004_water-747618_960_720hover.jpg" crc="3910942327" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0000_portafolio.png" crc="256141768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0003_anemone-1533515_960_720.jpg" crc="159122099" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0003_anemone-1533515_960_720hover.jpg" crc="4015396971" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0001_owl-964011_960_720.jpg" crc="3950193689" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0001_owl-964011_960_720hover.jpg" crc="130480176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0002_photo-634069_960_720.jpg" crc="229629844" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0003s_0002_photo-634069_960_720hover.jpg" crc="24999293" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0001s_0000_objeto-inteligente-vectorial.png" crc="4050539847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0001s_0005_contáctame.png" crc="4037816045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0001s_0002_objeto-inteligente-vectorial.png" crc="185645221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pagina-alf-exp_0000s_0000_2017--por-alfred-lópez-diseñado-y-desarrollado-por-alfred-lópe.png" crc="505762081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4148387463" seo="true" mt="1512955802598" redirect="true"/>
+</manifest>
